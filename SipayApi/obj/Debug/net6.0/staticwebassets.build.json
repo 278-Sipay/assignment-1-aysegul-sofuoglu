@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MuzmitgGYZSHq68NRSwYYxcsFQHhRTH6QLviqLKfJow=",
+  "Source": "SipayApi",
+  "BasePath": "_content/SipayApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

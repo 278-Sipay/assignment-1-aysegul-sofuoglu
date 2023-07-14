@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bdFVwypxbeTkF6BgulHDcqoZQz5WLi0ngKqVqH/6q8UfPMBdrcyC0iTA36fGj8+cXHDtNm2Sy4sm/N33wuZR0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aysegul\\Desktop\\GitHub\\assignment-1-aysegul-sofuoglu\\SipayApi\\SipayApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aysegul\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\aysegul\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\aysegul\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aysegul\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\aysegul\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\aysegul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\aysegul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
